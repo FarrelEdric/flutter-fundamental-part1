@@ -11,7 +11,7 @@ A new Flutter project.
 
 ![Screenshot hello_world](assets/img/img02.png)
 
-### langkah 13
+### langkah 3
 
 ![Screenshot hello_world](assets/img/img03.png)
 ## Praktikum 5
